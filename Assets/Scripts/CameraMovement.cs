@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// Handles looking around by the mouse.
+/// </summary>
 public class CameraMovement : MonoBehaviour {
     /// <summary>
     /// Horizontal mouse sensitivity.

@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 98b4ae9589c5ba04383188b476f34a03
+timeCreated: 1520432377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: barrel
+    100004: barrel_misc
+    100006: belso
+    100008: csavarock
+    100010: kar
+    100012: markolat
+    100014: misc
+    100016: out
+    100018: rail
+    100020: rail_001
+    100022: rail_002
+    100024: scoop_front
+    100026: scoop_rear
+    100028: sight
+    100030: stock
+    100032: stuff
+    100034: switch
+    100036: TAR
+    100038: test
+    100040: trigg
+    400000: //RootNode
+    400002: barrel
+    400004: barrel_misc
+    400006: belso
+    400008: csavarock
+    400010: kar
+    400012: markolat
+    400014: misc
+    400016: out
+    400018: rail
+    400020: rail_001
+    400022: rail_002
+    400024: scoop_front
+    400026: scoop_rear
+    400028: sight
+    400030: stock
+    400032: stuff
+    400034: switch
+    400036: TAR
+    400038: test
+    400040: trigg
+    2100000: plastic
+    2100002: csavar1
+    2100004: insidemat
+    2100006: material
+    2100008: barrel
+    2100010: bodymat2
+    2100012: magmat
+    2100014: bodymat
+    2100016: plastic_001
+    2100018: plastic_002
+    2100020: bodymat2_003
+    2100022: bodymat_003
+    2100024: plastic_003
+    2300000: barrel
+    2300002: barrel_misc
+    2300004: belso
+    2300006: csavarock
+    2300008: kar
+    2300010: markolat
+    2300012: misc
+    2300014: out
+    2300016: rail
+    2300018: rail_001
+    2300020: rail_002
+    2300022: scoop_front
+    2300024: scoop_rear
+    2300026: sight
+    2300028: stock
+    2300030: stuff
+    2300032: switch
+    2300034: TAR
+    2300036: test
+    2300038: trigg
+    3300000: barrel
+    3300002: barrel_misc
+    3300004: belso
+    3300006: csavarock
+    3300008: kar
+    3300010: markolat
+    3300012: misc
+    3300014: out
+    3300016: rail
+    3300018: rail_001
+    3300020: rail_002
+    3300022: scoop_front
+    3300024: scoop_rear
+    3300026: sight
+    3300028: stock
+    3300030: stuff
+    3300032: switch
+    3300034: TAR
+    3300036: test
+    3300038: trigg
+    4300000: scoop_rear
+    4300002: csavarock
+    4300004: kar
+    4300006: stuff
+    4300008: out
+    4300010: switch
+    4300012: scoop_front
+    4300014: sight
+    4300016: barrel
+    4300018: barrel_misc
+    4300020: trigg
+    4300022: markolat
+    4300024: TAR
+    4300026: test
+    4300028: rail
+    4300030: belso
+    4300032: misc
+    4300034: rail_001
+    4300036: rail_002
+    4300038: stock
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
