@@ -23,6 +23,18 @@ namespace LeapVR {
         [Tooltip("Sensitivity for scaling (dual hand pinch).")]
         public float ScalingSensitivity = .005f;
 
+        public void ToggleMovement() {
+            EnableMovement = !EnableMovement;
+        }
+
+        public void ToggleRotation() {
+            EnableRotation = !EnableRotation;
+        }
+
+        public void ToggleScaling() {
+            EnableScaling = !EnableScaling;
+        }
+
         void Start() {
             MinScale = transform.localScale * .0001f;
         }
